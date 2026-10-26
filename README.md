@@ -16,3 +16,8 @@ For more information about Markdown syntax, see the [Markdown Cheat Sheet](https
 This is a new line in the README file
 
 More updates
+
+
+This is a new feature!
+
+Another change on our feature branch.
